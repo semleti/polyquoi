@@ -1,5 +1,3 @@
-Une courte introduction au polyamour
-
 ## Le Polyamour
 
 | Poly  |  Amour |

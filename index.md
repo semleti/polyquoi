@@ -1,4 +1,4 @@
-## Le Polyamour
+## Le Polyamour ❤🧡💛💚💙💜
 
 | Poly  |  Amour |
 |---|---|
@@ -11,13 +11,13 @@ Aimer plusieurs individus.
 
 Polyamour: avoir plusieurs relations amoureuses. En même temps.
 
-## Comment est-ce possible
+## Comment est-ce possible 🤔
 
 ```
-" Love finds a way" - L'amour trouve un moyen
+" Love finds a way" - L'amour trouve un moyen 💘
 ```
 
-## Qui
+## Qui 🕵
 
 N'importe qui ayant assez d'amour, d'énergie et de temps peut être polyamoureux⸱se.
 
@@ -27,7 +27,7 @@ Crushs, premiers amours, différentes relations, coups de foudres..
 Mais rien ne sert de forcer.
 Pour certain⸱e⸱s, il n'y a que la place pour un⸱e amoureux⸱se à la fois dans leur vie, et c'est très bien ainsi.
 
-## Comment/Concrètement
+## Comment/Concrètement ❓
 
 Chaque relation (ou groupe de relations) est unique et adaptée aux personnes impliquées.
 
@@ -85,13 +85,13 @@ A - B - C - D
 </details> 
 
 
-## Pourquoi
+## Pourquoi ❔
 
 Pourquoi se priver de plus d'amour?
 
 Parfois on tombe amoureux⸱se plusieurs fois, pas besoin de s'infliger des maux de coeur en s'interdisant de poursuivre l'amour ressenti.
 
-## Dans quel but
+## Dans quel but 🥅
 
 Partager plus d'amour.
 
@@ -101,7 +101,7 @@ Vivre sa vie pleinement.
 
 Vivre des expériences et relations uniques.
 
-## Quand
+## Quand ⏲
 
 C'est propre à chaque relation. De manière spontanée, planifiée, régulière, exceptionnelle..
 
@@ -109,7 +109,7 @@ Quelqu'un de polyamoureux peut avoir une seule relation, voir être célibataire
 
 Chaque chose en son temps.
 
-## Où
+## Où 🧭
 
 C'est propre à chaque relation. Au domicile commun, au domicile de l'un⸱e ou l'autre, à l'hôtel, dans des lieux publiques...
 
@@ -117,21 +117,21 @@ Voir uniquement en ligne.
 
 Chaque chose en son lieu.
 
-## Les avantages
+## Les avantages ➕
 
 D'avantage d'amour, plus de libertés, moins d'attentes, un plus grand réseau de soutien, développement de la confiance/communication.
 
-## Les inconvénients
+## Les inconvénients ➖
 
 Plus de coordination/planning, risques de IST accru, jalousie (qui s'apprivoise), société construite autour du couple
 
-## Préjugés
+## Préjugés 👩‍⚖️👨‍⚖️
 
 - c'est de la tromperie/infidélité: si tout le monde est au courant et consentant, alors non, ce n'est pas le tromperie/infidélité
 - le beurre et l'argent du beurre: l'amour n'est pas une resource que l'on consomme, mais quelque chose qui se partage
 - et les enfants?: comme dans les familles recomposées, celà fait d'avantage d'adultes pour aider à les élever
 
-## Aide à conceptualiser et imaginer
+## Aide à conceptualiser et imaginer 🖼
 
 Impossible d'imaginer aimer plusieurs personnes à la fois?
 
@@ -142,7 +142,7 @@ D'une certaine manière, c'est peut-être déjà le cas:
 - famille
 - ami⸱e⸱s
 
-### Un potentiel scénario dans lequel celà pourrait arriver:
+### Un potentiel scénario dans lequel celà pourrait arriver: 📽
 
 Il est possible qu'un couple mono se sépare mais reste amoureux (par ex. dû à un déménagement pour les études/travail/..).
 
@@ -158,7 +158,7 @@ Que faire?
 Les 3 choix sont valides et forts en conséquences.
 Si tous les individus sont ouverts et consentants au polyamour, la 3ème possibilité évitera des maux de coeurs et résultera dans le plus d'amour.
 
-## Un peu de vocabulaire
+## Un peu de vocabulaire 📔
 
 Poly: adj de quelqu'un sidentifiant au polyamour
 
@@ -170,7 +170,7 @@ Polycule/Constellation: groupe d'invidus lié⸱e⸱s par des relations polyamou
 
 Compersion: Sentiment qui porte à partager le bonheur d'autrui. Comme la compassion, mais pour les sentiments positifs.
 
-## Autres médias et resources
+## Autres médias et resources 🎞📑
 
 Envie d'en découvrir plus?
 Besoin de différents médias pour mieux comprendre?
@@ -180,20 +180,20 @@ Besoin de différents médias pour mieux comprendre?
 [Voici](./resources.md) une courte liste pour débuter.
 
 
-## Conclusion
+## Conclusion 🧮
 
 Merci beaucoup d'avoir investi le temps de lire!
 
-### Je ne suis pas à l'aise avec l'idée
+### Je ne suis pas à l'aise avec l'idée 😐
 
 Ça peut arriver, il n'y a pas de mal à ça.
 
 Le polyamour, c'est de l'amour, et les personnes polyamoureuses cherchent simplement à vivre leur vie de manière authentique.
 
-### Je comprends, mais ce n'est pas moi
+### Je comprends, mais ce n'est pas moi 👍
 
 Super! Rien de tel que de savoir qui l'on est et ce qu'on désire.
 
-### C'est tout moi!
+### C'est tout moi! 🥰
 
 Génial! Plein d'amour à toi 💖

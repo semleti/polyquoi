@@ -27,6 +27,12 @@ div.inner {
   width: min(1080px, 90%);
 }
 
+@media screen and (max-width: 620px) {
+  header > h1 {
+    max-width: 360px;
+  }
+}
+
 header > h1 {
   font-size: min(48px,13vw);
   > span {

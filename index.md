@@ -6,7 +6,8 @@
 | polús (Grec ancien) | amor (latin) |
 
 
-Aimer plusieurs individus 
+
+Aimer plusieurs individus.
 
 Polyamour: avoir plusieurs relations amoureuses. En même temps.
 
@@ -39,44 +40,47 @@ A - B - C - D
 ```
 <details>
   <summary>Description des relations</summary>
+  <ul>
+<li>B et C sont marié⸱e⸱s, vivent la majorité du temps ensemble, et considèrent cette relation comme étant leur relation principale.</li>
 
-- B et C sont marié⸱e⸱s, vivent la majorité du temps ensemble, et considèrent cette relation comme étant leur relation principale.
+<li>B et A se voient tous les vendredis soirs pour un rdv amoureux au restaurant avant d'aller au cinéma, et se retrouvent en moyenne une fois par mois pour une randonnée de groupe.</li>
 
-- B et A se voient tous les vendredis soirs pour un rdv amoureux au restaurant avant d'aller au cinéma, et se retrouvent en moyenne une fois par mois pour une randonnée de groupe.
+<li>B et E ont une relation épistolaire à distance (échangent des lettres) et réservent un chalet 2 weekends par an pour passer du temps ensemble.</li>
 
-- B et E ont une relation épistolaire à distance (échangent des lettres) et réservent un chalet 2 weekends par an pour passer du temps ensemble.
+<li>E et F vivent ensemble 1 semaine sur 2, comme F fait des aller-retours pour le travail. Les 2 ont pour projet d'adopter un enfant. Les 2 n'ont pas de relations sexuelles, F se considérant asexuel⸱le.</li>
 
-- E et F vivent ensemble 1 semaine sur 2, comme F fait des aller-retours pour le travail. Les 2 ont pour projet d'adopter un enfant. Les 2 n'ont pas de relations sexuelles, F se considérant asexuel⸱le.
+<li>F et D se voient 1 semaine sur 2 (toujours le travail de F) et ont une relation romantique et platonique.</li>
 
-- F et D se voient 1 semaine sur 2 (toujours le travail de F) et ont une relation romantique et platonique.
-
-- D et C ont une relation principalement sexuelle, mais partagent une très forte tendresse.
+<li>D et C ont une relation principalement sexuelle, mais partagent une très forte tendresse.</li>
+  </ul>
 </details>
 
 <details>
   <summary>Description des méta-relations</summary>
+  <ul>
+<li>A et C sont ami⸱e⸱s</li>
 
-- A et C sont ami⸱e⸱s
+<li>B et D jouent aux jeux vidéos ensemble</li>
 
-- B et D jouent aux jeux vidéos ensemble
+<li>E a déjà parlé à A et C en ligne, mais ne les a jamais rencontré⸱e⸱s</li>
 
-- E a déjà parlé à A et C en ligne, mais ne les a jamais rencontré⸱e⸱s
-
-- F ressent de la jalousie, et n'aimerait pas savoir qui D et E fréquentent
+<li>F ressent de la jalousie, et n'aimerait pas savoir qui D et E fréquentent</li>
+  </ul>
 </details>
 
 <details>
   <summary>Ce que chacun⸱e recherche</summary>
+  <ul>
+<li>A se considère aromantique et greysexuel⸱le, ainsi que mono, et ne cherche pas d'autre relation. A se réjouit de pouvoir aider B et C de s'occuper de leur futur bébé.</li>
 
-- A se considère aromantique et greysexuel⸱le, ainsi que mono, et ne cherche pas d'autre relation. A se réjouit de pouvoir aider B et C de s'occuper de leur futur bébé.
+<li>B est polysaturé⸱e (n'a pas la place/le temps/l'énergie/l'envie de voir d'autres personnes).</li>
 
-- B est polysaturé⸱e (n'a pas la place/le temps/l'énergie/l'envie de voir d'autres personnes).
+<li>C fréquente les réseaux de rencontre et est ouvert⸱e à d'autres relations.</li>
 
-- C fréquente les réseaux de rencontre et est ouvert⸱e à d'autres relations.
+<li>D et E ont chacun⸱e des relations ponctuelles et éphémères, et ne cherchent pas d'autres relations à long terme.</li>
 
-- D et E ont chacun⸱e des relations ponctuelles et éphémères, et ne cherchent pas d'autres relations à long terme.
-
-- F se sent assez mono, et avoir une relation par lieu de vie lui suffit.
+<li>F se sent assez mono, et avoir une relation par lieu de vie lui suffit.</li>
+  </ul>
 
 </details> 
 
@@ -107,7 +111,7 @@ Chaque chose en son temps.
 
 ## Où
 
-C'est propre à chaque relation. Au domicile commun, au domicile de l'un ou l'autre, à l'hôtel, dans des lieux publiques...
+C'est propre à chaque relation. Au domicile commun, au domicile de l'un⸱e ou l'autre, à l'hôtel, dans des lieux publiques...
 
 Voir uniquement en ligne.
 
@@ -171,7 +175,7 @@ Compersion: Sentiment qui porte à partager le bonheur d'autrui. Comme la compas
 Envie d'en découvrir plus?
 Besoin de différents médias pour mieux comprendre?
 
-Ca tombe bien, il y en a plein 👼
+Ça tombe bien, il y en a plein 👼
 
 [Voici](./resources.md) une courte liste pour débuter.
 
@@ -182,7 +186,7 @@ Merci beaucoup d'avoir investi le temps de lire!
 
 ### Je ne suis pas à l'aise avec l'idée
 
-Ca peut arriver, il n'y a pas de mal à ca.
+Ça peut arriver, il n'y a pas de mal à ça.
 
 Le polyamour, c'est de l'amour, et les personnes polyamoureuses cherchent simplement à vivre leur vie de manière authentique.
 

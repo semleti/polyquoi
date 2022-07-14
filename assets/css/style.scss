@@ -27,7 +27,14 @@ div.inner {
   width: min(1080px, 90%);
 }
 
-h1 {
+header > h1 {
+  font-size: min(48px,13vw);
+  > span {
+    white-space: nowrap;
+  }
+}
+
+header > h2 {
   display: inline-block;
   background: -webkit-linear-gradient(left, red, orange , yellow, green, cyan, blue, violet);
   background: -o-linear-gradient(right, red, orange, yellow, green, cyan, blue, violet);
@@ -40,6 +47,9 @@ h1 {
 
 table {
   width: unset; 
+}
+
+table, td {
   border-color: #424242;
 }
 

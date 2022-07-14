@@ -1,4 +1,4 @@
-## Le Polyamour ❤️🧡💛💚💙💜
+## Le Polyamour <span>❤️🧡💛💚💙💜</span>
 
 | Poly  |  Amour |
 |---|---|
@@ -6,7 +6,7 @@
 | polús (Grec ancien) | amor (latin) |
 
 
-</br>
+<br/>
 
 Aimer plusieurs individus.
 

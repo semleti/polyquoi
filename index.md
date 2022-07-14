@@ -4,6 +4,8 @@
 |---|---|
 | Plusieurs  | 💕  |
 | polús (Grec ancien) | amor (latin) |
+
+
 </br>
 
 Aimer plusieurs individus.

@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  display: none;
+}
+
+h3 {
+  color: darkslategray;
+}
+
+a {
+  color: darkcyan;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+a:visited {
+  color: darkmagenta;
+}
+
+div.inner {
+  width: min(1080px, 90%);
+}
+
+@media screen and (max-width: 675px) {
+  header > h1 {
+    max-width: 360px;
+  }
+}
+
+header > h1 {
+  font-size: min(48px,13vw);
+  > span {
+    white-space: nowrap;
+  }
+}
+
+table {
+  width: unset; 
+}
+
+table, td {
+  border-color: #424242;
+}
+
+th, td {
+  padding-left: 1em;
+  padding-right: 1em;
+}

@@ -198,3 +198,13 @@ Super! Rien de tel que de savoir qui l'on est et ce qu'on désire.
 ### C'est tout moi! 🥰
 
 Génial! Plein d'amour à toi 💖
+
+<br/>
+<br/>
+<br/>
+
+## Contibution
+
+Une faute? Du feedback? Envie de contribuer?
+
+C'est sur [github](https://github.com/semleti/polyquoi/) que ça se passe 😉
